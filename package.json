@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-website-rajesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wimpywarlord/portfolio-website-rajesh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wimpywarlord/portfolio-website-rajesh/issues"
+  },
+  "homepage": "https://github.com/wimpywarlord/portfolio-website-rajesh#readme"
+}
